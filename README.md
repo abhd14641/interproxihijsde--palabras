@@ -1,4 +1,3 @@
-# interproxihijsde--palabras
 ABHD
 ABGD
 ABFD
